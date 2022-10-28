@@ -1,0 +1,25 @@
+{
+  "id": "f33b3b31-c7f9-4a12-bb07-1f69eb2a0439",
+  "name": "PegadaDeCarbono",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
